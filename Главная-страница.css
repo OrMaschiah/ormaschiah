@@ -1,0 +1,122 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(41,49,51,0.4), rgba(41,49,51,0.4)), url("images/130913153933-01-yom-kippur-0913-horizontal-large-gallery-1678480995.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 50vw;
+}
+
+.u-section-1 .u-image-1 {
+  width: 238px;
+  height: 161px;
+  margin: 90px auto 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 4.5rem;
+  font-family: Lato, sans-serif;
+  text-shadow: 2px 2px 8px rgba(77,96,100,0.4);
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: 2px;
+  margin: 61px 85px 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: Roboto, sans-serif;
+  letter-spacing: 2px;
+  line-height: 1.4;
+  font-weight: 300;
+  width: 839px;
+  font-size: 1.5rem;
+  text-transform: none;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  margin: 22px auto 0;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 1.125rem;
+  background-image: none;
+  margin: 220px auto 60px;
+  padding: 20px 55px 21px 54px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-image-1 {
+    height: 160px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 356px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    font-size: 4.0625rem;
+    width: auto;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-left: 45px;
+    margin-right: 45px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 246px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 904px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 156px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 850px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 43px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+    margin-top: 32px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 16px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 177px;
+    margin-left: 56px;
+  }
+}
